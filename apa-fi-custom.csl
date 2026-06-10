@@ -2244,7 +2244,7 @@
           <text variable="references"/>
         </if>
         <else>
-          <group delimiter=". " suffix=".">
+          <group delimiter=" " suffix=".">
             <text macro="author-and-contributors"/>
             <text macro="date"/>
             <text macro="title-and-descriptions"/>
