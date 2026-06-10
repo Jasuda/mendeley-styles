@@ -1698,7 +1698,7 @@
         <!-- TODO: Translator omitted on the assumption that editor-translators are uncommon for chapter citations. If needed, direct entry or automatic population of `editor-translator` can produce combined labels. -->
         <names delimiter="; " variable="editor">
           <name and="symbol"/>
-          <label form="short" prefix=" (" suffix=")" text-case="title"/>
+          <label form="short" prefix=" (" suffix=")" text-case="lowercase"/>
         </names>
         <names variable="editorial-director">
           <name and="symbol"/>
