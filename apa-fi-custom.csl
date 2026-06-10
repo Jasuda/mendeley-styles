@@ -41,10 +41,6 @@
         <single></single>
         <multiple></multiple>
       </term>
-      <term name="pages" form="short">
-        <single></single>
-        <multiple></multiple>
-      </term>
     </terms>
   </locale>
   <locale xml:lang="en">
