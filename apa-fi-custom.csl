@@ -395,7 +395,7 @@
         <names variable="editorial-director"/>
         <names variable="compiler">
           <name and="symbol" delimiter-precedes-last="always" name-as-sort-order="all"/>
-          <label prefix=" (" suffix=")" text-case="title"/>
+          <label prefix=" (" suffix=")" text-case="lowercase"/>
         </names>
         <choose>
           <if match="any" type="event performance speech">
